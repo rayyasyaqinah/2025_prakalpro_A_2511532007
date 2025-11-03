@@ -15,5 +15,5 @@ public class SentinelLoop_2511532007 {
 			System.out.println("totalnya adalah " + sum);
 
 	}
-
+	//2511532007
 }

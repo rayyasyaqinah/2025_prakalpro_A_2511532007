@@ -19,7 +19,7 @@ public class GamePenjumlahan_2511532007 {
 		System.out.println("You earned" + points + "total points.");
 
 	}
-	// membuat soal penjumlahan dan ditampilkan ke user
+	// membuat soal penjumlahan dan ditampilkan ke user nnnnn
 	public static int play(Scanner console, Random rand) {
 		// print operands being added, and sum then
 		int operands = rand.nextInt(4) + 2;
@@ -41,5 +41,5 @@ public class GamePenjumlahan_2511532007 {
 			return 0;
 		}
 	}
-
+//2511532007
 }

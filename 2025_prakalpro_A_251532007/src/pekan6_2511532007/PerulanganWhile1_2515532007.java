@@ -21,5 +21,5 @@ public class PerulanganWhile1_2515532007 {
 		
 		System.out.println("Anda sudaah melakukan perulangan sebanyak "+counter+" kali");
 	}
-
+	//2511532007
 }

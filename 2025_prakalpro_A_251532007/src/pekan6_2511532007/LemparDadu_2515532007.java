@@ -16,5 +16,5 @@ public class LemparDadu_2515532007 {
 		}
 		System.out.println("You won after" + tries + " tries!");
 	}
-
+//2511532007
 }
